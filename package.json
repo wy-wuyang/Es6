@@ -1,0 +1,20 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "- ECMACScript6.0  ES6 -> ES2015\r - ES7 -> ES2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wy-wuyang/Es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wy-wuyang/Es6/issues"
+  },
+  "homepage": "https://github.com/wy-wuyang/Es6#readme"
+}
